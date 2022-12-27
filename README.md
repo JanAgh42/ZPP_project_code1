@@ -1,3 +1,1 @@
-Project working with the contents of a csv file.
-
-******ARCHIVED ON 28.12.2020******
+A project that allows the user to read, modify and delete the contents of a .csv file, in this case entries consisting of a racing driver and additional information about him / her.
